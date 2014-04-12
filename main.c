@@ -2,6 +2,7 @@
 #include <stdint.h>
 #include "STM32F4xx.h" 
 #include "LED.h"
+#include "PWM.h"
 
 /*--------------------------------------------------------- 
  MAIN function 
